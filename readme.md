@@ -9,7 +9,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 ## Rules
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Send the link to dev@cubo.network;
+2. Send the link to recruit@alboompro.com;
 3. We use Angular and Node.js with Serverless, but you can feel free to choose other technologies;
 
 ## Challenge
